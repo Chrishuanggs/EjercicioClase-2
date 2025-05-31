@@ -9,5 +9,6 @@ namespace Entities
     public class Animal
     {
         public string Family {  get; set; }
+        public string Type { get; set; }
     }
 }
